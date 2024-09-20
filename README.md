@@ -7,3 +7,6 @@ Press the Inject button
 That's it.
 
 THE CHEAT MENU WORKS WITH THE INSERT BUTTON.
+
+Thanks to the injector owner.
+https://github.com/master131
